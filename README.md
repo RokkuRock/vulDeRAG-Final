@@ -124,15 +124,3 @@ python few_shot_with_vul_snippet-pure_chain-of-thought-pipeline.py -i test_cases
 ## 📊 Evaluation
 
 Results are saved in `artifacts/evaluation_results/` with repaired source code for each pipeline configuration.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-[Add your license here]
-
-## 📧 Contact
-
-[Add your contact information here]
