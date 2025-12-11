@@ -1,4 +1,4 @@
-# LLM-Based Vulnerability Repair with RAG & Chain-of-Thought
+# LLM-Based Vulnerability Detection with RAG & Chain-of-Thought
 
 ## 📌 Project Overview
 
